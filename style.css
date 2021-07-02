@@ -1,4 +1,8 @@
 
+h3{
+    text-align: center;
+    background-color:turquoise;
+}
 p
 {
     background-color:tomato;
@@ -11,6 +15,19 @@ p
 img 
 {
     display: block;
-    width:50%;
+    width:45%;
     margin:auto;
+}
+div span 
+{
+    
+    font-weight: bold;
+    font-style:arial;
+    background-color: yellow;
+    font-size: 20px;
+    border:1px solid black;
+}
+div{
+    margin-top: 30px;
+    text-align: center;
 }
